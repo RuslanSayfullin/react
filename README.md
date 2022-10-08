@@ -28,4 +28,9 @@ intent is to have you focus on how the code interacts with the data
 associated with one or more bank accounts.
 To start, consider what operations a client would want to do with a bank
 account and what data would be needed to represent an account.
-Code: Bank1_OneAccount.py
+    Code: Bank1_OneAccount.py
+Implementation 2—Single Account with Functions
+In the version of the program, the code is broken up into
+separate functions, one for each action. Again, this simulation is for a single
+account.
+    Code: Bank2_OneAccountWithFunctions
