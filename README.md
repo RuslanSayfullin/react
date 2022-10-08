@@ -34,3 +34,10 @@ In the version of the program, the code is broken up into
 separate functions, one for each action. Again, this simulation is for a single
 account.
     Code: Bank2_OneAccountWithFunctions
+The version of the bank simulation program  uses the same approach but adds the ability to have two accounts.
+    Code: Bank3_TwoAccounts.py
+Implementation 4—Multiple Accounts Using Lists
+To more easily accommodate multiple accounts, I’ll represent
+the data using lists. I’ll use three parallel lists in this version of the program:
+accountNamesList , accountPasswordsList , and accountBalancesList .
+Implementation 4—Multiple Accounts Using Lists
