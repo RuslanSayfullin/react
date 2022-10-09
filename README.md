@@ -41,3 +41,12 @@ To more easily accommodate multiple accounts, I’ll represent
 the data using lists. I’ll use three parallel lists in this version of the program:
 accountNamesList , accountPasswordsList , and accountBalancesList .
 Implementation 4—Multiple Accounts Using Lists
+To more easily accommodate multiple accounts, in Listing 1-5 I’ll represent
+the data using lists. I’ll use three parallel lists in this version of the program
+     Code: Bank4_N_Accounts.py
+Implementation 5—List of Account Dictionaries
+To implement this last approach, I’ll use a slightly more complicated data
+structure. In this version, I’ll create a list of accounts, where each account
+(each element of this list) is a dictionary
+     Code: Bank5_Dictionary.py
+

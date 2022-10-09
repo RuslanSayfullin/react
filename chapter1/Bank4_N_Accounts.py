@@ -27,6 +27,7 @@ def getBalance(accountNumber, password):
         return None
     return accountBalancesList[accountNumber]
 
+
 # Create two sample accounts
 print("Joe's account is account number:",
 len(accountNamesList))
