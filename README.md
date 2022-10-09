@@ -50,3 +50,11 @@ structure. In this version, I’ll create a list of accounts, where each account
 (each element of this list) is a dictionary
      Code: Bank5_Dictionary.py
 
+Object-Oriented Solution—First Look at a Class
+Listing 1-7 is an object-oriented approach that combines all the code and
+associated data of a single account. There are many new concepts here, and
+I will get into all the details starting in the next chapter. While I am not
+expecting you to fully understand this example yet, notice that there is a
+combination of code and data in a single script (called a class). Here is your
+first look at object-oriented code.
+    Code: Account.py
