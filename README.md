@@ -72,3 +72,7 @@ Listing contains the LightSwitch class, code to instantiate an object
 from the class, and code to turn that LightSwitch object on and off by
 calling its turnOn() and turnOff() methods.
     File: OO_LightSwitch_with_Test_Code.py
+Creating Multiple Instances from the Same Class
+Listing creates two light switch objects and calls
+methods on the different objects.
+    File: OO_LightSwitch_Two_Instances.py

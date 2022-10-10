@@ -38,7 +38,12 @@
     "last_opened_file_path": "/home/rusl4n/Documents/projects/oop_with_python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Account">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.OO_LightSwitch_Two_Instances">
     <configuration name="Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="oop_with_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HigherOrLowerProcedural" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OO_LightSwitch_Two_Instances" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="oop_with_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/HigherOrLowerProcedural.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter2/OO_LightSwitch_Two_Instances.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OO_LightSwitch_Two_Instances" />
         <item itemvalue="Python.Account" />
         <item itemvalue="Python.Bank5_Dictionary" />
         <item itemvalue="Python.Bank4_N_Accounts" />
         <item itemvalue="Python.Bank2_OneAccountWithFunctions" />
-        <item itemvalue="Python.HigherOrLowerProcedural" />
       </list>
     </recent_temporary>
   </component>
