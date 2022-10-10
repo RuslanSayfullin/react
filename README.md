@@ -58,3 +58,12 @@ expecting you to fully understand this example yet, notice that there is a
 combination of code and data in a single script (called a class). Here is your
 first look at object-oriented code.
     Code: Account.py
+
+CHAPTER 2: MODELING PHYSICAL OBJECTS WITH OBJECT-ORIENTED PROGRAMMING
+========================================================================================================================
+
+State and Behavior: Light Switch Example
+Software model of a standard two-position light switch
+written in procedural Python. This is a trivial example, but it will
+demonstrate state and behavior.
+     Code: LightSwitch_Procedural.py
