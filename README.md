@@ -67,3 +67,8 @@ Software model of a standard two-position light switch
 written in procedural Python. This is a trivial example, but it will
 demonstrate state and behavior.
      Code: LightSwitch_Procedural.py
+Calling Methods of an Object
+Listing contains the LightSwitch class, code to instantiate an object
+from the class, and code to turn that LightSwitch object on and off by
+calling its turnOn() and turnOff() methods.
+    File: OO_LightSwitch_with_Test_Code.py
