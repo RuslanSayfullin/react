@@ -83,3 +83,9 @@ __init__() , then defines a number of additional methods, one for each of
 the behaviors listed.
     File: DimmerSwitch.py
     File: OO_DimmerSwitch_with_Test_Code.py
+Representing a More Complicated Physical
+Object as a Class
+Let’s consider a more complicated physical object: a television. With this
+more complicated example, we’ll take a closer look at how arguments work
+in classes.
+    File: TV.py
