@@ -76,3 +76,10 @@ Creating Multiple Instances from the Same Class
 Listing creates two light switch objects and calls
 methods on the different objects.
     File: OO_LightSwitch_Two_Instances.py
+Building a Slightly More Complicated Class
+The DimmerSwitch class uses the standard template shown earlier
+: it starts with a class statement and a first method named
+__init__() , then defines a number of additional methods, one for each of
+the behaviors listed.
+    File: DimmerSwitch.py
+    File: OO_DimmerSwitch_with_Test_Code.py
