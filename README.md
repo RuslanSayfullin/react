@@ -90,3 +90,9 @@ more complicated example, we’ll take a closer look at how arguments work
 in classes.
     File: TV.py
     File: OO_TV_with_Test_Code.py
+Multiple Instances
+Every method is written with self as the first parameter, so the self
+variable receives the object used in each call. This has a major implication:
+it allows any method within a class to work with different objects. I’ll
+explain how this works.
+    File: OO_TV_TwoInstances.py
