@@ -96,3 +96,14 @@ variable receives the object used in each call. This has a major implication:
 it allows any method within a class to work with different objects. I’ll
 explain how this works.
     File: OO_TV_TwoInstances.py
+
+CHAPTER 3: MENTAL MODELS OF OBJECTS AND THE MEANING OF “SELF”
+========================================================================================================================
+
+Revisiting the DimmerSwitch Class
+Some test code to create three DimmerSwitch objects
+from the DimmerSwitch class, which we’ll use in our mental models. I’ll
+call various methods for each of the DimmerSwitch objects.
+    File: OO_DimmerSwitch_Model1.py
+
+
