@@ -105,5 +105,13 @@ Some test code to create three DimmerSwitch objects
 from the DimmerSwitch class, which we’ll use in our mental models. I’ll
 call various methods for each of the DimmerSwitch objects.
     File: OO_DimmerSwitch_Model1.py
+A Deeper Mental Model
+This model explores objects at a lower level and will explain more about what an object is.
+Every time you instantiate an object, you get back a value from Python.
+We typically store the returned value in a variable that refers to the object.
+We create three DimmerSwitch objects. After creating each
+one, we’ll add code to inspect the result by printing out the type and value
+of each variable.
+    File: OO_DimmerSwitch_Model2_Instantiation.py
 
 
