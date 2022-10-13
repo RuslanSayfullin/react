@@ -113,5 +113,6 @@ We create three DimmerSwitch objects. After creating each
 one, we’ll add code to inspect the result by printing out the type and value
 of each variable.
     File: OO_DimmerSwitch_Model2_Instantiation.py
+    File: OO_DimmerSwitch_Model2_Method_Calls.py
 
 
