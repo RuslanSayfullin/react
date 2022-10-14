@@ -115,4 +115,11 @@ of each variable.
     File: OO_DimmerSwitch_Model2_Instantiation.py
     File: OO_DimmerSwitch_Model2_Method_Calls.py
 
+CHAPTER 4: MANAGING MULTIPLE OBJECTS
+========================================================================================================================
 
+Bank Account Class
+Our bank account class will need, at a minimum, a name, password, and balance
+as its data. For behaviors, the user must be able to create an account, deposit and
+withdraw money, and check their balance.
+    File: Account.py
